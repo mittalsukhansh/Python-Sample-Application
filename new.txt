@@ -2,3 +2,6 @@
 
 
 // new code added
+$
+print('dummy')
+
